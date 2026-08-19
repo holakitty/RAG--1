@@ -1,0 +1,7 @@
+{
+  "name": "RAG from Scratch - Groq & Llama 3 Suite",
+  "description": "Complete Python code suite, interactive playground, Google Chat collaboration, and secure Razorpay payment gateway for Groq LPU inference credits & subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
